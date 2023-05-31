@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="fifty_black">#80000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="eggshell">#E8DDB5</color>
+    <color name="feldgrau">#3F4B3B</color>
+    <color name="orange">#FF7F11</color>
+</resources>

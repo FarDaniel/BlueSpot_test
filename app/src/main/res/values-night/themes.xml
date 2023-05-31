@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Base.Theme.BlueSpotTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/feldgrau</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>

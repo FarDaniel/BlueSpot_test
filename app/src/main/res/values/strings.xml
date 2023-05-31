@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlueSpotTest</string>
+    <string name="no_connection">There is no internet connection!</string>
+</resources>
